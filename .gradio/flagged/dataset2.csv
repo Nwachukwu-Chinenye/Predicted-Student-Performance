@@ -1,0 +1,3 @@
+Upload Student CSV (or leave blank for manual entry),Target Exam Score (%),Subject (Manual Entry),Quiz Score (Manual Entry),Assignment Score (Manual Entry),Attempts (Manual Entry),Mastery Level (Manual Entry),Attendance % (Manual Entry),Topic (Manual Entry),Predicted Student Performance,Download Predictions CSV,Goal-Seeker Status,timestamp
+,100,Chemistry,20,56,2,Low,75,Algebra,"{""headers"": [""1"", ""2"", ""3""], ""data"": [], ""metadata"": null}",,,2026-01-20 01:00:19.021578
+,100,Chemistry,20,56,2,Low,75,Algebra,"{""headers"": [""1"", ""2"", ""3""], ""data"": [], ""metadata"": null}",,,2026-01-20 01:00:40.771164

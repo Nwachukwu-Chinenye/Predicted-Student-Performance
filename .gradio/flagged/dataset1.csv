@@ -1,0 +1,3 @@
+Upload your Student CSV,Target Exam Score (%),Predicted Student Performance,Download Predictions CSV,Goal-Seeker Status,timestamp
+.gradio\flagged\Upload your Student CSV\63b27852cf96be371284\training_data.csv,80,"{""headers"": [""1"", ""2"", ""3""], ""data"": [], ""metadata"": null}",,,2026-01-18 15:19:29.047110
+,80,"{""headers"": [""1"", ""2"", ""3""], ""data"": [], ""metadata"": null}",,,2026-01-18 18:08:35.896412
